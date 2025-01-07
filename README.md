@@ -8,7 +8,7 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b> Excel </b> 
+- <b> Microsoft Excel </b> 
 - <b> R Studio </b>
 
 <h2> Data Source </h2>
