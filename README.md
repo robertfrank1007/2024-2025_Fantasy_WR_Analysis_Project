@@ -11,4 +11,5 @@
 - <b> Excel </b> 
 - <b> R Studio </b>
 
-[Data Source](https://www.fantasypros.com/nfl/stats/wr.php?scoring=PPR)
+<h2> Data Source </h2>
+https://www.fantasypros.com/nfl/stats/wr.php?scoring=PPR
