@@ -10,3 +10,7 @@
 
 - <b> Excel </b> 
 - <b> R Studio </b>
+
+<h2> Data Source </h2>
+
+https://www.fantasypros.com/nfl/stats/wr.php?scoring=PPR
